@@ -1,6 +1,6 @@
 # 📢 **Electronic Clock**
 
-[alt text](1.png)
+[1](./1.png)
 
 The new **Electronic Clock** is designed with versatile features to enhance your experience. Below are its main functionalities:
 
